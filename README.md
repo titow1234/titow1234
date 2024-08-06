@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @titow1234
+- 👋 Hi, I’m @titow
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Linux Bash
 - 💞️ I’m looking to collaborate on Java
